@@ -1,1 +1,1 @@
-# AR-Sanskrit-Tutorial
+An AR experience created using Unity to help beginners learn how to greet and introduce themselves to each other in Sanskrit. The aim of this project is to promote  the Indian cultural heritage and re-introduce the roots of Sanskrit not only in India, but also around the globe.
