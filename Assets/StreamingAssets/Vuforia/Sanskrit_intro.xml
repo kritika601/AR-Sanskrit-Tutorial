@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="residence" size="5.000000 7.181926" />
+    <ImageTarget name="profession" size="5.000000 7.076319" />
+    <ImageTarget name="name" size="5.000000 7.320051" />
+    <ImageTarget name="greeting" size="5.000000 7.160738" />
+  </Tracking>
+</QCARConfig>
